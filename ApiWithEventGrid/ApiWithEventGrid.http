@@ -1,0 +1,6 @@
+@ApiWithEventGrid_HostAddress = http://localhost:5153
+
+GET {{ApiWithEventGrid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
